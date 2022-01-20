@@ -30,7 +30,7 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ My GitHub Stats
 
-![Renê's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=renesoaresse&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide=stars)
-![Renê's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=renesoaresse&langs_count=6&layout=compact&theme=dracula)
+![Renê's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=renesoaresse&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide=stars)
+![Renê's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=renesoaresse&langs_count=6&layout=compact&theme=gotham)
 
-![Renê's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renesoares&theme=dracula)
+![Renê's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renesoares&theme=gotham)
