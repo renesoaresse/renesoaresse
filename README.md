@@ -17,7 +17,7 @@ These are some of the technologies and tools that I work with:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-000080?style=flat-square&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-ff6f00?style=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-ff6f00?tyle=flat-square&logo=Flutter)
 ![GraphQl](https://img.shields.io/badge/-Graphql-181717?style=flat-square&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
