@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Renê Soares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- I’m currently working on [@fcamara](https://www.fcamara.com.br/) with TypeScript and React Native .
+- I’m currently working with TypeScript and React Native.
 
 ## ⚡ Technologies
 
