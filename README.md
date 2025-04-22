@@ -1,7 +1,48 @@
 
 ### Hi there, I'm Renê Soares <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- I’m currently working with TypeScript and React Native.
+I'm a software engineer with **13+ years of experience**, including the **last 8 years focused on mobile development using React Native**.
+
+I specialize in:
+
+- 🔧 **Performance optimization**
+- 🛠️ **Legacy project maintenance and modernization**
+- 🧱 **Scalable mobile architecture**
+- 🧪 **Clean and testable code**
+
+---
+
+## 🚀 Featured Projects
+
+- **MEI App** – [Banco Neon]  
+  High-performance financial solution for self-employed professionals.
+
+- **NAV Paciente** – [DASA]  
+  UX and architecture improvements for a large-scale healthcare app.
+
+- **Bom Parceiro App** – [Grupo Petrópolis]  
+  Mobile loyalty and sales platform for field agents.
+
+- **Custom Mobile Apps** – [OonSeguradora]  
+  Modular and scalable apps for insurance operations.
+
+---
+
+## 🛠️ Tech & Practices
+
+- **React Native (Expo & CLI)**
+- **REST APIs, Firebase**
+- **Clean Code, SOLID principles**
+- **Component-based architecture**
+- **Code refactoring for maintainability**
+- **UX consistency & performance tuning**
+
+---
+
+## 👁 Philosophy
+
+> I believe great software respects both the end user’s time and the developer’s sanity. I’m passionate about building reliable, elegant, and scalable solutions that deliver real-world impact — and I’m always learning along the way.
+
 
 ## ⚡ Technologies
 
